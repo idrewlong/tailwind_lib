@@ -1,7 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.button_home {
-	@apply px-6 py-3 rounded-lg shadow-xl bg-orange-400 hover:opacity-80 duration-200 transition-opacity text-center;
-}
